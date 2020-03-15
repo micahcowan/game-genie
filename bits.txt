@@ -17,14 +17,14 @@ http://tuxnes.sourceforge.net/gamegenie.html
         V  0xE
         N  0xF
 
-n0: d07 d02 d01 d00
-n1: a07 d06 d05 d04
-n2: ONE a06 a05 a04
-n3: a03 a14 a13 a12
-n4: a11 a02 a01 a0
-n5: c03 a10 a09 a08
-n6: c07 c02 c01 c00
-n7: d03 c06 c05 c04
+n0: d07 d02 d01 d00     A a
+n1: a07 d06 d05 d04     B b
+n2: ONE a06 a05 a04     C c
+n3: a03 a14 a13 a12     D d
+n4: a11 a02 a01 a0      E e
+n5: c03 a10 a09 a08     F f
+n6: c07 c02 c01 c00     G g
+n7: d03 c06 c05 c04     H h
 
 Address:
 ONE1 n3.2 n3.1 n3.0 n4.3 n5.2 n5.1 n5.0
